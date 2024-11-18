@@ -1,0 +1,438 @@
+
+
+
+div#cha{
+    height: 100%;
+    width: 250px;
+    background-color: silver;
+    position: fixed;
+    top: 95px;
+    overflow: scroll;
+
+    
+}
+
+
+
+li{
+    marker: none;
+}
+
+li:hover{
+    color: white;
+}
+
+a:hover{
+    color: white;
+}
+
+
+
+     
+
+
+
+a{
+    text-decoration: none;
+}
+
+a:visited{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    color: black;
+    text-decoration: none;
+}
+
+
+
+   
+
+
+div#sisi{
+    height: 45px;
+    width: 100%;
+    background-color: black;
+    position: fixed ;
+    margin: 0px,30px,0px,0px;
+    top: 55px;
+    overflow: scroll;
+    float: inline-end;
+  
+    
+    color: white;
+
+    
+
+}
+
+a#mmm{
+    color: white;
+    word-spacing: 6px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-right: 1px;
+    border-color: white;
+   
+    
+}
+
+table{
+    vertical-align: bottom;
+}
+ 
+
+td{
+    vertical-align: text-bottom;
+    
+    
+}
+
+td:hover{
+    background-color: #04AA6D;
+}
+
+
+
+
+
+div#ooo{
+    background-color: white;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    top: -0px;
+
+}
+
+ul{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+p#hihi{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: -30px;
+    font-size: 21px;
+}
+
+select#ki{
+    font-size: 15px;
+    border: none;
+}
+
+
+input[type=search]{
+    height: 40px;
+   border-radius: 30px;
+    background-image: url(op.png);
+   background-repeat: no-repeat;
+   background-size: 70px;
+   background-position: right;
+   
+   
+
+   
+   
+}
+
+
+
+
+button#lwwl{
+    border-radius:30px;
+    height: 40px;
+    width: 90px;
+    text-align: center; 
+     border: none;
+     background-color: #04AA6D ;
+     cursor: pointer;
+     color: white;
+     display:inline-block;
+    
+     
+   
+}
+
+
+
+
+button#lwlw{
+    border-radius:30px;
+    height: 40px;
+    width: 90px;
+    text-align: center; 
+     border: none;
+     background-color:  rgb(217, 243, 222) ;
+     cursor: pointer;
+     margin-right:4px;
+    
+}
+
+
+button#lwlw:hover{
+    background-color:  #04AA6D;
+    color: white;
+}
+  
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
+div#www{
+    height: 200px;
+    width: 1100px;
+      margin-top: 200px;
+      margin-left: 250px;
+ 
+}
+
+
+p#lolo{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 45px;
+    margin-left:30px;
+     margin-top: 100px;
+}
+
+button#keke{
+    color:white ;
+    background-color:#04AA6D ;
+    margin-top: -30px;
+    margin-left: 30px;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  
+
+}
+
+
+button#lala{
+    color:white ;
+    background-color: #04AA6D ;
+    margin-top: -30px;
+    margin-left: 30px;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 610px;
+
+   
+}
+
+
+
+
+div#qua{
+    margin-top: -50px;
+    background-color: rgb(217, 243, 222);
+    margin-left: 250px;
+    height: 250px;
+    width: 900px;
+    float: left;
+
+
+
+}
+
+p#lw{
+    margin-left: 40px;
+    font-size: 17px;
+}
+
+button#ke{
+    background-color:#04AA6D;
+    color:white;
+    margin-top: 20px;
+    margin-left: 40px;
+    height: 50px;
+    border: none;
+    font-size:15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+hr{
+   margin-top: 250px;
+   margin-left: 200px;
+}
+
+
+
+
+
+
+p#qqq{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 32px;
+    margin-left:270px;
+     margin-top: 40px;
+}
+
+p#kja{
+    margin-left:270px;
+    font-size: 20px;
+}
+
+
+
+
+
+li:hover{
+    background-color: white;
+}
+
+
+select#ki:hover{
+    background-color: #04AA6D;
+    color: white;
+}
+
+th#hp:hover{
+    background-color:#04AA6D;
+}
+
+li:hover{
+    background-color: gray;
+  
+}
+
+div#cha{
+    background-color:#E7E9EB;
+}
+
+a#kkk{
+    background-color: #04AA6D;
+   color: white;
+
+}
+
+select#ki{
+    width: 100px;
+    height: 30px;
+}
+
+option[Value=Exercises]{
+    background-color: white;
+    color: black;
+}
+option[Value=Tutorials]{
+        background-color: white;
+        color: black;
+}
+
+
+
+
+button#lwwl{
+    position: relative;
+    width: 93px;
+    height: 40px;
+    top: 50%;
+    margin-top: -20px;
+    border-radius: 25px;
+    margin-right: -39px;
+    font-size: 16px;
+    line-height: 1.5;
+    z-index: 5;
+    left: 20px;
+}
+
+button#lwlw{
+    position: relative;
+    width: 112px;
+    height: 40px;
+    top: 50%;
+    margin-top: -20px;
+    color:black;
+    border-radius: 25px;
+    padding-left: 39px;
+    font-size: 16px;
+    line-height: 1.5;
+    z-index: 4;
+    left: 20px;
+}
+
+
+
+
+
+
+p#lw{
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+p#lu{
+    margin-left: 30px;
+}
+
+p#lj{
+    margin-left: 30px;
+}
+
+
+button#ke{
+    width: 250px;
+    height: 42px;
+    font-size: 15px;
+}
+
+
+p#kja{
+    font-size: 17px;          
+}
+
+button#keke{
+    font-size: 17px;
+}
+
+button#lala{
+    font-size: 18px;
+}
+
+button#lwwl{
+    font-size: 13px;
+}
+
+button#lwlw{
+     font-size: 13px;
+}
+
+li{
+    margin-left: -40px;
+}
+
+a#ccc{
+    margin-left: 40px;
+}
+
+a#ccc:hover{
+    color: white;
+}
+
+li#eee{
+    background-color: #04AA6D;
+}
+
+a#ddd{
+    margin-left: 40px;
+    color: white;
+}
+
+
+
+
+
